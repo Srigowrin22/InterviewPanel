@@ -1,0 +1,10 @@
+Encapsulation
+Middleware
+Git
+Decomposition
+Quicksort
+Singleton
+SMTP
+Cache
+DDOS
+Bandwidth

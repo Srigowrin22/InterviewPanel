@@ -1,0 +1,10 @@
+What is the term for a software design pattern that restricts direct access to certain components, promoting loose coupling?
+What is the term for a software component that serves as an intermediary between two other components?
+Which version control system is widely used for managing source code revisions in software development?
+What is the process of breaking down a complex problem into smaller, more manageable parts? 
+Which sorting algorithm has an average time complexity of O(n log n)?
+Which design pattern is used to restrict instantiation of a class to one object? 
+What protocol is commonly used for sending emails?
+What is the name of the high-speed memory that is located between the CPU and main memory?
+What type of attack involves flooding a network or server with excessive requests, causing it to become unavailable?
+What is the term for the measure of how quickly data can be transferred between devices on a network?
